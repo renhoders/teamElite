@@ -3,6 +3,6 @@ class Main {
     System.out.println("Hello world!");
     System.out.println("Hello world team Elite!");
     System.out.println("Hello Manuel!");
-    System.out.println("Pull Request Manuel");
+    System.out.println("Pull Request Jonna");
   }
 }
